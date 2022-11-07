@@ -76,6 +76,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/tmp/tmp.KLlFaSlO5H/date.h">
+			<Option target="POS_cvicenie07_arrayList"/>
+		</Unit>
 		<Unit filename="/tmp/tmp.KLlFaSlO5H/main.c">
 			<Option target="POS_cvicenie07_arrayList"/>
 		</Unit>
