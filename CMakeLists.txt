@@ -3,4 +3,4 @@ project(POS_cvicenie07_arrayList C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(POS_cvicenie07_arrayList main.c date.h cmake-build-debug/date.c array_list.cpp array_list.h)
+add_executable(POS_cvicenie07_arrayList main.c header/date.h cmake-build-debug/date.c header/array_list.h source/array_list.c header/array_list.h)

@@ -1,4 +1,4 @@
-#include "date.h"
+#include "../header/date.h"
 
 int date_compare(DATE dateA, DATE dateB) {
     if (dateA.year < dateB.year ||
