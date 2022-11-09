@@ -13,3 +13,7 @@ int date_compare(DATE dateA, DATE dateB) {
         return 1;
     }
 }
+
+void date_print(DATE date) {
+    printf("%d.%d.%d", date.day, date.month, date.year);
+}

@@ -5,6 +5,7 @@
 #ifndef POS_CVICENIE07_ARRAYLIST_DATE_H
 #define POS_CVICENIE07_ARRAYLIST_DATE_H
 
+#include <stdio.h>
 
 //struct date {
 //    int year;
@@ -24,5 +25,6 @@ typedef struct date {
 
 //funkcia vracajuca integer
 int date_compare(DATE dateA, DATE dateB);
+void date_print(DATE dateA);
 
 #endif //POS_CVICENIE07_ARRAYLIST_DATE_H
